@@ -14,10 +14,14 @@ h1 {
 p.green_text{
     color: purple;
 }
+.link:hover{
+    color: aqua
+}
 #header2{
     color: aqua;
     background-color: black;
 }
+
 a.hover{
     color: red;
 }
